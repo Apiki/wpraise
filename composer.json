@@ -11,5 +11,13 @@
             "name": "Elvis Henrique Pereira",
             "email": "elvishp2006@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "WPRaise": "src/"
+        },
+        "files": [
+            "src/load.php"
+        ]
+    }
 }
