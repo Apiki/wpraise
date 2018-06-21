@@ -1,2 +1,3 @@
-# wpraise
-Core tools for the WPEmerge. 
+# WPRaise
+
+Refer to http://wpemerge.com/ for more information.
