@@ -1,0 +1,15 @@
+{
+    "name": "apiki/wpraise",
+    "description": "Core tools for the WP Emerge.",
+    "type": "library",
+    "require": {
+        "htmlburger/wpemerge": "0.9.*"
+    },
+    "license": "GPL-2.0-only",
+    "authors": [
+        {
+            "name": "Elvis Henrique Pereira",
+            "email": "elvishp2006@gmail.com"
+        }
+    ]
+}
